@@ -1,4 +1,5 @@
 # Online-Grocery-Store
+# click here Demo (http://127.0.0.1:5500/grocery%20website/about.html)
 Online Grocery Store is an eCommerce based web application for our Web Programming project. We had developed a sample in which user can search and find necessary information about any grocery item, can proceed to checkout to buy products. User can create an account, update personal information, can check its past activities, orders and transactions, and cart items.
 # Technologies Used
 Frontend Languages: HTML, CSS, and Client-Side JavaScript
